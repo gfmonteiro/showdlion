@@ -2,7 +2,7 @@
 
 include "valida_login.php";
 
-echo "<h1>Hello World!</h1><p>Nosso primeiro projeto na aula de <strong>Linguagens</strong></p>";
+echo "<h1>Bem Vindo a ShowdLion</h1><p>Projeto Loja <strong>ShowdLion</strong></p>";
 
 ?>
 
